@@ -1,0 +1,7 @@
+---
+permalink: /home/
+---
+
+# Home
+
+sdgsdf
