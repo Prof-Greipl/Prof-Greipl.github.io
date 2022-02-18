@@ -1,6 +1,6 @@
 var store = [{
         "title": "Welcome to Jekyll!",
-        "excerpt":"Second Posts  ","categories": [],
+        "excerpt":"Second Post  sd fasdlkfg ödslfk sdlfk södflkg södfl sfknböskdf ösdfkgsdflk  ","categories": [],
         "tags": [],
         "url": "/test-post-02/",
         "teaser": null
