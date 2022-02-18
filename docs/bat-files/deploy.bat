@@ -1,7 +1,7 @@
 @echo off
 REM rende the site
 cd ..
-jekyll build --destination docs/
+call jekyll build --destination docs/
 
 REM xcopy _book docs\ /s /e /y
 
