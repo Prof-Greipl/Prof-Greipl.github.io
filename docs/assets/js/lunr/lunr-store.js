@@ -1,13 +1,7 @@
 var store = [{
-        "title": "Welcome to Jekyll!",
-        "excerpt":"Second Post  sd fasdlkfg ödslfk sdlfk södflkg södfl sfknböskdf ösdfkgsdflk  ","categories": [],
+        "title": "Start in SS22",
+        "excerpt":"Hier finden sie allgemeine Infromationen zum Sommersemester 2022   Starttermine  Die Termine folgen zeitnah.  ","categories": [],
         "tags": [],
-        "url": "/test-post-02/",
-        "teaser": null
-      },{
-        "title": "Welcome to Jekyll!",
-        "excerpt":"First Posts  ","categories": [],
-        "tags": [],
-        "url": "/test-post-01/",
+        "url": "/ss_22/",
         "teaser": null
       }]

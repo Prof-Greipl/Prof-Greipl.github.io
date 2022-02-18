@@ -3,7 +3,9 @@ layout: single
 permalink: /faq/
 toc: true
 toc_label: "Inhalte"
-#classes: wide
+sidebar:
+  nav: "index-docs"
+classes: wide
 ---
 
 # FAQ

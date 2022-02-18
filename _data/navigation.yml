@@ -1,26 +1,26 @@
 # main links for  upper bar
 main:
-  - title: "Home"
-    url: /home/
-  - title: "Page"
-    url: /page1/
+#  - title: "Home"
+#    url: /home/
+#  - title: "Page"
+#    url: /page1/
 
 index-docs:
-  - title: X
+  - title: Allgemein
     children:
     - title: FAQ
       url: /faq/
-
-  - title: Online-Books
-    children:
-      - title: Data Science and ML
-        url: /faq/
-
-  - title: Demo Pages
-    children:
-      - title: mit TOC
-        url: /demo-page-toc/
-
-      - title: wide page
-        url: /demo-page-wide/
+#
+#  - title: Online-Books
+#    children:
+#      - title: Data Science and ML
+#        url: /faq/
+#
+#  - title: Demo Pages
+#    children:
+#      - title: mit TOC
+#        url: /demo-page-toc/
+#
+#      - title: wide page
+#        url: /demo-page-wide/
 
